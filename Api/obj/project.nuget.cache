@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oEH8+4dshrpESfyeq+Hu6viS0//GAHb0BFW1xKEA+iC/F7V8gSyf1sfsREvQRlrHqUSP9i2MSaepPhXV3/PIXg==",
+  "success": true,
+  "projectFilePath": "/Users/barisakar/Desktop/e-comm/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/barisakar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/barisakar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/barisakar/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/barisakar/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/barisakar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/barisakar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
