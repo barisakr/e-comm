@@ -56,3 +56,6 @@
 /Users/barisakar/Desktop/e-comm/Api/bin/Debug/net6.0/Infrastructure.dll
 /Users/barisakar/Desktop/e-comm/Api/bin/Debug/net6.0/Infrastructure.pdb
 /Users/barisakar/Desktop/e-comm/Api/bin/Debug/net6.0/Core.pdb
+/Users/barisakar/Desktop/e-comm/Api/bin/Debug/net6.0/AutoMapper.dll
+/Users/barisakar/Desktop/e-comm/Api/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/barisakar/Desktop/e-comm/Api/bin/Debug/net6.0/Api.staticwebassets.runtime.json
